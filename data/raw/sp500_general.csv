@@ -1,0 +1,508 @@
+Instrument,Company Common Name,Country of Headquarters,TRBC Industry Group Name,GICS Sector Name,Currency
+POOL.OQ,Pool Corp,United States of America,Leisure Products,Consumer Discretionary,USD
+CHRW.OQ,CH Robinson Worldwide Inc,United States of America,Freight & Logistics Services,Industrials,USD
+AJG.N,Arthur J. Gallagher & Co.,United States of America,Insurance,Financials,USD
+CNP.N,CenterPoint Energy Inc,United States of America,Multiline Utilities,Utilities,USD
+AMCR.N,Amcor PLC,United Kingdom,Containers & Packaging,Materials,USD
+WM.N,Waste Management Inc,United States of America,Professional & Commercial Services,Industrials,USD
+BA.N,Boeing Co,United States of America,Aerospace & Defense,Industrials,USD
+FOX.OQ,Fox Corp,United States of America,Media & Publishing,Communication Services,USD
+LIN.N,Linde PLC,United Kingdom,Chemicals,Materials,USD
+WY.N,Weyerhaeuser Co,United States of America,Residential & Commercial REITs,Real Estate,USD
+MCD.N,McDonald's Corp,United States of America,Hotels & Entertainment Services,Consumer Discretionary,USD
+HD.N,Home Depot Inc,United States of America,Specialty Retailers,Consumer Discretionary,USD
+SPG.N,Simon Property Group Inc,United States of America,Residential & Commercial REITs,Real Estate,USD
+HBAN.OQ,Huntington Bancshares Inc,United States of America,Banking Services,Financials,USD
+QRVO.OQ,Qorvo Inc,United States of America,Semiconductors & Semiconductor Equipment,Information Technology,USD
+LVS.N,Las Vegas Sands Corp,United States of America,Hotels & Entertainment Services,Consumer Discretionary,USD
+CTRA.N,Coterra Energy Inc,United States of America,Oil & Gas,Energy,USD
+AIG.N,American International Group Inc,United States of America,Insurance,Financials,USD
+AIZ.N,Assurant Inc,United States of America,Insurance,Financials,USD
+CARR.N,Carrier Global Corp,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+COST.OQ,Costco Wholesale Corp,United States of America,Diversified Retail,Consumer Staples,USD
+MCO.N,Moody's Corp,United States of America,Professional & Commercial Services,Financials,USD
+DIS.N,Walt Disney Co,United States of America,Media & Publishing,Communication Services,USD
+PAYX.OQ,Paychex Inc,United States of America,Professional & Commercial Services,Industrials,USD
+AMD.OQ,Advanced Micro Devices Inc,United States of America,Semiconductors & Semiconductor Equipment,Information Technology,USD
+REG.OQ,Regency Centers Corp,United States of America,Residential & Commercial REITs,Real Estate,USD
+DHI.N,DR Horton Inc,United States of America,Homebuilding & Construction Supplies,Consumer Discretionary,USD
+TRV.N,Travelers Companies Inc,United States of America,Insurance,Financials,USD
+BIO.N,Bio Rad Laboratories Inc,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+MOS.N,Mosaic Co,United States of America,Chemicals,Materials,USD
+BWA.N,Borgwarner Inc,United States of America,Automobiles & Auto Parts,Consumer Discretionary,USD
+WDC.OQ,Western Digital Corp,United States of America,"Computers, Phones & Household Electronics",Information Technology,USD
+VTR.N,Ventas Inc,United States of America,Residential & Commercial REITs,Real Estate,USD
+IVZ.N,Invesco Ltd,United States of America,Investment Banking & Investment Services,Financials,USD
+ZBRA.OQ,Zebra Technologies Corp,United States of America,Electronic Equipment & Parts,Information Technology,USD
+AMAT.OQ,Applied Materials Inc,United States of America,Semiconductors & Semiconductor Equipment,Information Technology,USD
+STX.OQ,Seagate Technology Holdings PLC,Ireland; Republic of,"Computers, Phones & Household Electronics",Information Technology,USD
+FDS.N,Factset Research Systems Inc,United States of America,Professional & Commercial Services,Financials,USD
+SYK.N,Stryker Corp,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+VRSN.OQ,Verisign Inc,United States of America,Software & IT Services,Information Technology,USD
+TECH.OQ,Bio-Techne Corp,United States of America,Biotechnology & Medical Research,Health Care,USD
+NVR.N,NVR Inc,United States of America,Homebuilding & Construction Supplies,Consumer Discretionary,USD
+BBWI.N,Bath & Body Works Inc,United States of America,Specialty Retailers,Consumer Discretionary,USD
+LOW.N,Lowe's Companies Inc,United States of America,Specialty Retailers,Consumer Discretionary,USD
+BSX.N,Boston Scientific Corp,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+SYY.N,Sysco Corp,United States of America,Food & Drug Retailing,Consumer Staples,USD
+FCX.N,Freeport-McMoRan Inc,United States of America,Metals & Mining,Materials,USD
+MAS.N,Masco Corp,United States of America,Homebuilding & Construction Supplies,Industrials,USD
+BEN.N,Franklin Resources Inc,United States of America,Investment Banking & Investment Services,Financials,USD
+META.OQ,Meta Platforms Inc,United States of America,Software & IT Services,Communication Services,USD
+EVRG.OQ,Evergy Inc,United States of America,Electric Utilities & IPPs,Utilities,USD
+EXPD.OQ,Expeditors International of Washington Inc,United States of America,Freight & Logistics Services,Industrials,USD
+PAYC.N,Paycom Software Inc,United States of America,Software & IT Services,Industrials,USD
+EXPE.OQ,Expedia Group Inc,United States of America,Hotels & Entertainment Services,Consumer Discretionary,USD
+RJF.N,Raymond James Financial Inc,United States of America,Investment Banking & Investment Services,Financials,USD
+CL.N,Colgate-Palmolive Co,United States of America,Personal & Household Products & Services,Consumer Staples,USD
+CE.N,Celanese Corp,United States of America,Chemicals,Materials,USD
+UNH.N,UnitedHealth Group Inc,United States of America,Healthcare Providers & Services,Health Care,USD
+ARE.N,Alexandria Real Estate Equities Inc,United States of America,Residential & Commercial REITs,Real Estate,USD
+UAA.N,Under Armour Inc,United States of America,Textiles & Apparel,Consumer Discretionary,USD
+GEN.OQ,Gen Digital Inc,United States of America,Software & IT Services,Information Technology,USD
+LLY.N,Eli Lilly and Co,United States of America,Pharmaceuticals,Health Care,USD
+CDAY.N,Ceridian HCM Holding Inc,United States of America,Software & IT Services,Industrials,USD
+GRMN.N,Garmin Ltd,Switzerland,Communications & Networking,Consumer Discretionary,USD
+NWL.OQ,Newell Brands Inc,United States of America,Household Goods,Consumer Discretionary,USD
+ISRG.OQ,Intuitive Surgical Inc,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+AVB.N,Avalonbay Communities Inc,United States of America,Residential & Commercial REITs,Real Estate,USD
+PVH.N,PVH Corp,United States of America,Textiles & Apparel,Consumer Discretionary,USD
+TPR.N,Tapestry Inc,United States of America,Specialty Retailers,Consumer Discretionary,USD
+CBRE.N,CBRE Group Inc,United States of America,Real Estate Operations,Real Estate,USD
+CINF.OQ,Cincinnati Financial Corp,United States of America,Insurance,Financials,USD
+SEE.N,Sealed Air Corp,United States of America,Containers & Packaging,Materials,USD
+WMB.N,Williams Companies Inc,United States of America,Oil & Gas Related Equipment and Services,Energy,USD
+EA.OQ,Electronic Arts Inc,United States of America,Software & IT Services,Communication Services,USD
+CPRI.N,Capri Holdings Ltd,United Kingdom,Specialty Retailers,Consumer Discretionary,USD
+TMUS.OQ,T-Mobile US Inc,United States of America,Telecommunications Services,Communication Services,USD
+CB.N,Chubb Ltd,Switzerland,Insurance,Financials,USD
+TXN.OQ,Texas Instruments Inc,United States of America,Semiconductors & Semiconductor Equipment,Information Technology,USD
+MDLZ.OQ,Mondelez International Inc,United States of America,Food & Tobacco,Consumer Staples,USD
+BRO.N,Brown & Brown Inc,United States of America,Insurance,Financials,USD
+BALL.N,Ball Corp,United States of America,Containers & Packaging,Materials,USD
+PFG.OQ,Principal Financial Group Inc,United States of America,Investment Banking & Investment Services,Financials,USD
+KEYS.N,Keysight Technologies Inc,United States of America,Electronic Equipment & Parts,Information Technology,USD
+SEDG.OQ,Solaredge Technologies Inc,Israel,Renewable Energy,Information Technology,USD
+RL.N,Ralph Lauren Corp,United States of America,Textiles & Apparel,Consumer Discretionary,USD
+JPM.N,JPMorgan Chase & Co,United States of America,Banking Services,Financials,USD
+INFO.N^B22,IHS Markit Ltd,United Kingdom,Professional & Commercial Services,,USD
+TTWO.OQ,Take-Two Interactive Software Inc,United States of America,Leisure Products,Communication Services,USD
+CDW.OQ,CDW Corp,United States of America,Software & IT Services,Information Technology,USD
+RMD.N,Resmed Inc,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+LNT.OQ,Alliant Energy Corp,United States of America,Electric Utilities & IPPs,Utilities,USD
+CMG.N,Chipotle Mexican Grill Inc,United States of America,Hotels & Entertainment Services,Consumer Discretionary,USD
+PCAR.OQ,Paccar Inc,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+GNRC.N,Generac Holdings Inc,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+CHTR.OQ,Charter Communications Inc,United States of America,Telecommunications Services,Communication Services,USD
+PWR.N,Quanta Services Inc,United States of America,Construction & Engineering,Industrials,USD
+CCL.N,Carnival Corp,United States of America,Hotels & Entertainment Services,Consumer Discretionary,USD
+PM.N,Philip Morris International Inc,United States of America,Food & Tobacco,Consumer Staples,USD
+COO.N,Cooper Companies Inc,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+SNA.N,Snap-On Inc,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+UAL.OQ,United Airlines Holdings Inc,United States of America,Passenger Transportation Services,Industrials,USD
+ESS.N,Essex Property Trust Inc,United States of America,Residential & Commercial REITs,Real Estate,USD
+KHC.OQ,Kraft Heinz Co,United States of America,Food & Tobacco,Consumer Staples,USD
+JBHT.OQ,J B Hunt Transport Services Inc,United States of America,Freight & Logistics Services,Industrials,USD
+CMI.N,Cummins Inc,United States of America,Automobiles & Auto Parts,Industrials,USD
+PNR.N,Pentair PLC,United Kingdom,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+CRL.N,Charles River Laboratories International Inc,United States of America,Biotechnology & Medical Research,Health Care,USD
+DPZ.N,Domino's Pizza Inc,United States of America,Hotels & Entertainment Services,Consumer Discretionary,USD
+AGN.N^E20,Allergan plc,Ireland; Republic of,Pharmaceuticals,,
+HPQ.N,HP Inc,United States of America,"Computers, Phones & Household Electronics",Information Technology,USD
+LW.N,Lamb Weston Holdings Inc,United States of America,Food & Tobacco,Consumer Staples,USD
+TGT.N,Target Corp,United States of America,Diversified Retail,Consumer Staples,USD
+NTAP.OQ,NetApp Inc,United States of America,"Computers, Phones & Household Electronics",Information Technology,USD
+OXY.N,Occidental Petroleum Corp,United States of America,Oil & Gas,Energy,USD
+IR.N,Ingersoll Rand Inc,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+TER.OQ,Teradyne Inc,United States of America,Semiconductors & Semiconductor Equipment,Information Technology,USD
+WAB.N,Westinghouse Air Brake Technologies Corp,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+FBIN.N,Fortune Brands Innovations Inc,United States of America,Homebuilding & Construction Supplies,Industrials,USD
+NOW.N,ServiceNow Inc,United States of America,Software & IT Services,Information Technology,USD
+EXC.OQ,Exelon Corp,United States of America,Electric Utilities & IPPs,Utilities,USD
+BR.N,Broadridge Financial Solutions Inc,United States of America,Professional & Commercial Services,Industrials,USD
+EMN.N,Eastman Chemical Co,United States of America,Chemicals,Materials,USD
+AZO.N,Autozone Inc,United States of America,Specialty Retailers,Consumer Discretionary,USD
+TEL.N,TE Connectivity Ltd,Switzerland,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Information Technology,USD
+FRT.N,Federal Realty Investment Trust,United States of America,Residential & Commercial REITs,Real Estate,USD
+DUK.N,Duke Energy Corp,United States of America,Electric Utilities & IPPs,Utilities,USD
+KMI.N,Kinder Morgan Inc,United States of America,Oil & Gas Related Equipment and Services,Energy,USD
+DVN.N,Devon Energy Corp,United States of America,Oil & Gas,Energy,USD
+RCL.N,Royal Caribbean Cruises Ltd,United States of America,Hotels & Entertainment Services,Consumer Discretionary,USD
+VTRS.OQ,Viatris Inc,United States of America,Pharmaceuticals,Health Care,USD
+CAH.N,Cardinal Health Inc,United States of America,Pharmaceuticals,Health Care,USD
+AAL.OQ,American Airlines Group Inc,United States of America,Passenger Transportation Services,Industrials,USD
+MKC.N,McCormick & Company Inc,United States of America,Food & Tobacco,Consumer Staples,USD
+IEX.N,IDEX Corp,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+VLO.N,Valero Energy Corp,United States of America,Oil & Gas,Energy,USD
+LH.N,Laboratory Corporation of America Holdings,United States of America,Healthcare Providers & Services,Health Care,USD
+DRI.N,Darden Restaurants Inc,United States of America,Hotels & Entertainment Services,Consumer Discretionary,USD
+MAA.N,Mid-America Apartment Communities Inc,United States of America,Residential & Commercial REITs,Real Estate,USD
+JNJ.N,Johnson & Johnson,United States of America,Pharmaceuticals,Health Care,USD
+ABC.N,Amerisourcebergen Corp,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+SHW.N,Sherwin-Williams Co,United States of America,Chemicals,Materials,USD
+GD.N,General Dynamics Corp,United States of America,Aerospace & Defense,Industrials,USD
+SBAC.OQ,SBA Communications Corp,United States of America,Residential & Commercial REITs,Real Estate,USD
+MPWR.OQ,Monolithic Power Systems Inc,United States of America,Semiconductors & Semiconductor Equipment,Information Technology,USD
+COP.N,Conocophillips,United States of America,Oil & Gas,Energy,USD
+ORCL.N,Oracle Corp,United States of America,Software & IT Services,Information Technology,USD
+AMP.N,Ameriprise Financial Inc,United States of America,Investment Banking & Investment Services,Financials,USD
+NXPI.OQ,NXP Semiconductors NV,Netherlands,Semiconductors & Semiconductor Equipment,Information Technology,USD
+CPRT.OQ,Copart Inc,United States of America,Software & IT Services,Industrials,USD
+TXT.N,Textron Inc,United States of America,Aerospace & Defense,Industrials,USD
+T.N,AT&T Inc,United States of America,Telecommunications Services,Communication Services,USD
+MTCH.OQ,Match Group Inc,United States of America,Software & IT Services,Communication Services,USD
+NDAQ.OQ,Nasdaq Inc,United States of America,Investment Banking & Investment Services,Financials,USD
+FFIV.OQ,F5 Inc,United States of America,Software & IT Services,Information Technology,USD
+LEN.N,Lennar Corp,United States of America,Homebuilding & Construction Supplies,Consumer Discretionary,USD
+CDNS.OQ,Cadence Design Systems Inc,United States of America,Software & IT Services,Information Technology,USD
+NVDA.OQ,NVIDIA Corp,United States of America,Semiconductors & Semiconductor Equipment,Information Technology,USD
+WELL.N,Welltower Inc,United States of America,Residential & Commercial REITs,Real Estate,USD
+PLD.N,Prologis Inc,United States of America,Residential & Commercial REITs,Real Estate,USD
+ROST.OQ,Ross Stores Inc,United States of America,Specialty Retailers,Consumer Discretionary,USD
+MRK.N,Merck & Co Inc,United States of America,Pharmaceuticals,Health Care,USD
+WEC.N,WEC Energy Group Inc,United States of America,Electric Utilities & IPPs,Utilities,USD
+MSCI.N,MSCI Inc,United States of America,Professional & Commercial Services,Financials,USD
+TMO.N,Thermo Fisher Scientific Inc,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+F.N,Ford Motor Co,United States of America,Automobiles & Auto Parts,Consumer Discretionary,USD
+LYB.N,LyondellBasell Industries NV,United Kingdom,Chemicals,Materials,USD
+IBM.N,International Business Machines Corp,United States of America,Software & IT Services,Information Technology,USD
+IQV.N,IQVIA Holdings Inc,United States of America,Biotechnology & Medical Research,Health Care,USD
+VRTX.OQ,Vertex Pharmaceuticals Inc,United States of America,Biotechnology & Medical Research,Health Care,USD
+DXCM.OQ,Dexcom Inc,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+CERN.OQ^F22,Cerner Corp,United States of America,Healthcare Equipment & Supplies,,USD
+PEP.OQ,PepsiCo Inc,United States of America,Beverages,Consumer Staples,USD
+AOS.N,A O Smith Corp,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+BLK.N,BlackRock Inc,United States of America,Investment Banking & Investment Services,Financials,USD
+ABMD.OQ^L22,ABIOMED Inc,United States of America,Healthcare Equipment & Supplies,,USD
+HII.N,Huntington Ingalls Industries Inc,United States of America,Aerospace & Defense,Industrials,USD
+CVS.N,CVS Health Corp,United States of America,Healthcare Providers & Services,Health Care,USD
+PH.N,Parker-Hannifin Corp,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+NSC.N,Norfolk Southern Corp,United States of America,Freight & Logistics Services,Industrials,USD
+MSFT.OQ,Microsoft Corp,United States of America,Software & IT Services,Information Technology,USD
+HWM.N,Howmet Aerospace Inc,United States of America,Aerospace & Defense,Industrials,USD
+BAX.N,Baxter International Inc,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+HUM.N,Humana Inc,United States of America,Healthcare Providers & Services,Health Care,USD
+ZBH.N,Zimmer Biomet Holdings Inc,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+TDY.N,Teledyne Technologies Inc,United States of America,Electronic Equipment & Parts,Information Technology,USD
+GILD.OQ,Gilead Sciences Inc,United States of America,Pharmaceuticals,Health Care,USD
+EPAM.N,Epam Systems Inc,United States of America,Software & IT Services,Information Technology,USD
+CMA.N,Comerica Inc,United States of America,Banking Services,Financials,USD
+NOC.N,Northrop Grumman Corp,United States of America,Aerospace & Defense,Industrials,USD
+PNW.N,Pinnacle West Capital Corp,United States of America,Electric Utilities & IPPs,Utilities,USD
+BFb.N,Brown-Forman Corp,United States of America,Beverages,Consumer Staples,USD
+DE.N,Deere & Co,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+HSY.N,Hershey Co,United States of America,Food & Tobacco,Consumer Staples,USD
+GL.N,Globe Life Inc,United States of America,Insurance,Financials,USD
+SLB.N,Schlumberger NV,United States of America,Oil & Gas Related Equipment and Services,Energy,USD
+AWK.N,American Water Works Company Inc,United States of America,Water & Related Utilities,Utilities,USD
+PKG.N,Packaging Corp of America,United States of America,Containers & Packaging,Materials,USD
+FLT.N,Fleetcor Technologies Inc,United States of America,Professional & Commercial Services,Financials,USD
+ADI.OQ,Analog Devices Inc,United States of America,Semiconductors & Semiconductor Equipment,Information Technology,USD
+MMC.N,Marsh & McLennan Companies Inc,United States of America,Insurance,Financials,USD
+IT.N,Gartner Inc,United States of America,Software & IT Services,Information Technology,USD
+ECL.N,Ecolab Inc,United States of America,Chemicals,Materials,USD
+BXP.N,Boston Properties Inc,United States of America,Residential & Commercial REITs,Real Estate,USD
+GE.N,General Electric Co,United States of America,Consumer Goods Conglomerates,Industrials,USD
+ED.N,Consolidated Edison Inc,United States of America,Electric Utilities & IPPs,Utilities,USD
+ALLE.N,Allegion PLC,Ireland; Republic of,Communications & Networking,Industrials,USD
+OTIS.N,Otis Worldwide Corp,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+WFC.N,Wells Fargo & Co,United States of America,Banking Services,Financials,USD
+CTVA.N,Corteva Inc,United States of America,Chemicals,Materials,USD
+FTV.N,Fortive Corp,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+AEE.N,Ameren Corp,United States of America,Multiline Utilities,Utilities,USD
+PRU.N,Prudential Financial Inc,United States of America,Insurance,Financials,USD
+DLTR.OQ,Dollar Tree Inc,United States of America,Diversified Retail,Consumer Staples,USD
+CF.N,CF Industries Holdings Inc,United States of America,Chemicals,Materials,USD
+NEE.N,Nextera Energy Inc,United States of America,Electric Utilities & IPPs,Utilities,USD
+FMC.N,FMC Corp,United States of America,Chemicals,Materials,USD
+ILMN.OQ,Illumina Inc,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+KLAC.OQ,KLA Corp,United States of America,Semiconductors & Semiconductor Equipment,Information Technology,USD
+AME.N,AMETEK Inc,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+XLNX.OQ^B22,Xilinx Inc,United States of America,Semiconductors & Semiconductor Equipment,,USD
+NUE.N,Nucor Corp,United States of America,Metals & Mining,Materials,USD
+D.N,Dominion Energy Inc,United States of America,Electric Utilities & IPPs,Utilities,USD
+SJM.N,J M Smucker Co,United States of America,Food & Tobacco,Consumer Staples,USD
+EMR.N,Emerson Electric Co,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+DVA.N,DaVita Inc,United States of America,Healthcare Providers & Services,Health Care,USD
+CMS.N,CMS Energy Corp,United States of America,Multiline Utilities,Utilities,USD
+HPE.N,Hewlett Packard Enterprise Co,United States of America,"Computers, Phones & Household Electronics",Information Technology,USD
+RHI.N,Robert Half International Inc,United States of America,Professional & Commercial Services,Industrials,USD
+BDX.N,Becton Dickinson and Co,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+AAP.N,Advance Auto Parts Inc,United States of America,Specialty Retailers,Consumer Discretionary,USD
+MGM.N,MGM Resorts International,United States of America,Hotels & Entertainment Services,Consumer Discretionary,USD
+ALGN.OQ,Align Technology Inc,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+SRE.N,Sempra,United States of America,Multiline Utilities,Utilities,USD
+REGN.OQ,Regeneron Pharmaceuticals Inc,United States of America,Biotechnology & Medical Research,Health Care,USD
+EFX.N,Equifax Inc,United States of America,Professional & Commercial Services,Industrials,USD
+USB.N,US Bancorp,United States of America,Banking Services,Financials,USD
+HCA.N,HCA Healthcare Inc,United States of America,Healthcare Providers & Services,Health Care,USD
+AVGO.OQ,Broadcom Inc,United States of America,Semiconductors & Semiconductor Equipment,Information Technology,USD
+DHR.N,Danaher Corp,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+NWSA.OQ,News Corp,United States of America,Media & Publishing,Communication Services,USD
+RTX.N,Raytheon Technologies Corp,United States of America,Aerospace & Defense,Industrials,USD
+AAPL.OQ,Apple Inc,United States of America,"Computers, Phones & Household Electronics",Information Technology,USD
+CME.OQ,CME Group Inc,United States of America,Investment Banking & Investment Services,Financials,USD
+MRO.N,Marathon Oil Corp,United States of America,Oil & Gas,Energy,USD
+ADM.N,Archer-Daniels-Midland Co,United States of America,Food & Tobacco,Consumer Staples,USD
+APD.N,Air Products and Chemicals Inc,United States of America,Chemicals,Materials,USD
+FANG.OQ,Diamondback Energy Inc,United States of America,Oil & Gas,Energy,USD
+WRB.N,W R Berkley Corp,United States of America,Insurance,Financials,USD
+AXP.N,American Express Co,United States of America,Banking Services,Financials,USD
+CLX.N,Clorox Co,United States of America,Personal & Household Products & Services,Consumer Staples,USD
+DOV.N,Dover Corp,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+MTB.N,M&T Bank Corp,United States of America,Banking Services,Financials,USD
+FDX.N,FedEx Corp,United States of America,Freight & Logistics Services,Industrials,USD
+TROW.OQ,T Rowe Price Group Inc,United States of America,Investment Banking & Investment Services,Financials,USD
+DRE.N^J22,Duke Realty Corp,United States of America,Residential & Commercial REITs,,USD
+JKHY.OQ,Jack Henry & Associates Inc,United States of America,Software & IT Services,Financials,USD
+O.N,Realty Income Corp,United States of America,Residential & Commercial REITs,Real Estate,USD
+MLM.N,Martin Marietta Materials Inc,United States of America,Construction Materials,Materials,USD
+RVTY.N,Revvity Inc,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+TWTR.N^J22,Twitter Inc,United States of America,Software & IT Services,,USD
+L.N,Loews Corp,United States of America,Insurance,Financials,USD
+QCOM.OQ,Qualcomm Inc,United States of America,Semiconductors & Semiconductor Equipment,Information Technology,USD
+PENN.OQ,PENN Entertainment Inc,United States of America,Hotels & Entertainment Services,Consumer Discretionary,USD
+IPG.N,Interpublic Group of Companies Inc,United States of America,Media & Publishing,Communication Services,USD
+PHM.N,Pultegroup Inc,United States of America,Homebuilding & Construction Supplies,Consumer Discretionary,USD
+ANSS.OQ,ANSYS Inc,United States of America,Software & IT Services,Information Technology,USD
+PBCT.OQ^D22,People's United Financial Inc,United States of America,Banking Services,,USD
+ULTA.OQ,Ulta Beauty Inc,United States of America,Specialty Retailers,Consumer Discretionary,USD
+KO.N,Coca-Cola Co,United States of America,Beverages,Consumer Staples,USD
+FI.N,Fiserv Inc,United States of America,Professional & Commercial Services,Financials,USD
+CSCO.OQ,Cisco Systems Inc,United States of America,Communications & Networking,Information Technology,USD
+WTW.OQ,Willis Towers Watson PLC,United Kingdom,Insurance,Financials,USD
+ANET.N,Arista Networks Inc,United States of America,Communications & Networking,Information Technology,USD
+ES.N,Eversource Energy,United States of America,Electric Utilities & IPPs,Utilities,USD
+CTAS.OQ,Cintas Corp,United States of America,Professional & Commercial Services,Industrials,USD
+GPN.N,Global Payments Inc,United States of America,Professional & Commercial Services,Financials,USD
+RSG.N,Republic Services Inc,United States of America,Professional & Commercial Services,Industrials,USD
+MCK.N,Mckesson Corp,United States of America,Pharmaceuticals,Health Care,USD
+HLT.N,Hilton Worldwide Holdings Inc,United States of America,Hotels & Entertainment Services,Consumer Discretionary,USD
+NFLX.OQ,Netflix Inc,United States of America,Software & IT Services,Communication Services,USD
+RF.N,Regions Financial Corp,United States of America,Banking Services,Financials,USD
+WMT.N,Walmart Inc,United States of America,Food & Drug Retailing,Consumer Staples,USD
+AMGN.OQ,Amgen Inc,United States of America,Pharmaceuticals,Health Care,USD
+KIM.N,Kimco Realty Corp,United States of America,Residential & Commercial REITs,Real Estate,USD
+PXD.N,Pioneer Natural Resources Co,United States of America,Oil & Gas,Energy,USD
+DG.N,Dollar General Corp,United States of America,Diversified Retail,Consumer Staples,USD
+XRAY.OQ,DENTSPLY SIRONA Inc,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+EQR.N,Equity Residential,United States of America,Residential & Commercial REITs,Real Estate,USD
+URI.N,United Rentals Inc,United States of America,Professional & Commercial Services,Industrials,USD
+TDG.N,TransDigm Group Inc,United States of America,Aerospace & Defense,Industrials,USD
+CNC.N,Centene Corp,United States of America,Healthcare Providers & Services,Health Care,USD
+NKE.N,Nike Inc,United States of America,Textiles & Apparel,Consumer Discretionary,USD
+AES.N,AES Corp,United States of America,Electric Utilities & IPPs,Utilities,USD
+ELV.N,Elevance Health Inc,United States of America,Healthcare Providers & Services,Health Care,USD
+GWW.N,WW Grainger Inc,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+K.N,Kellogg Co,United States of America,Food & Tobacco,Consumer Staples,USD
+GOOGL.OQ,Alphabet Inc,United States of America,Software & IT Services,Communication Services,USD
+GM.N,General Motors Co,United States of America,Automobiles & Auto Parts,Consumer Discretionary,USD
+CCI.N,Crown Castle Inc,United States of America,Residential & Commercial REITs,Real Estate,USD
+COF.N,Capital One Financial Corp,United States of America,Banking Services,Financials,USD
+ROP.N,Roper Technologies Inc,United States of America,Software & IT Services,Information Technology,USD
+C.N,Citigroup Inc,United States of America,Investment Banking & Investment Services,Financials,USD
+ODFL.OQ,Old Dominion Freight Line Inc,United States of America,Freight & Logistics Services,Industrials,USD
+A.N,Agilent Technologies Inc,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+GS.N,Goldman Sachs Group Inc,United States of America,Investment Banking & Investment Services,Financials,USD
+MET.N,MetLife Inc,United States of America,Insurance,Financials,USD
+WYNN.OQ,Wynn Resorts Ltd,United States of America,Hotels & Entertainment Services,Consumer Discretionary,USD
+PSA.N,Public Storage,United States of America,Residential & Commercial REITs,Real Estate,USD
+MRNA.OQ,Moderna Inc,United States of America,Biotechnology & Medical Research,Health Care,USD
+OGN.N,Organon & Co,United States of America,Pharmaceuticals,Health Care,USD
+NLSN.N^J22,Nielsen Holdings Ltd,United States of America,Media & Publishing,,USD
+BK.N,Bank of New York Mellon Corp,United States of America,Investment Banking & Investment Services,Financials,USD
+FAST.OQ,Fastenal Co,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+LDOS.N,Leidos Holdings Inc,United States of America,Software & IT Services,Industrials,USD
+ORLY.OQ,O'Reilly Automotive Inc,United States of America,Specialty Retailers,Consumer Discretionary,USD
+CSX.OQ,CSX Corp,United States of America,Freight & Logistics Services,Industrials,USD
+CFG.N,Citizens Financial Group Inc,United States of America,Banking Services,Financials,USD
+NI.N,NiSource Inc,United States of America,Multiline Utilities,Utilities,USD
+MO.N,Altria Group Inc,United States of America,Food & Tobacco,Consumer Staples,USD
+DD.N,Dupont De Nemours Inc,United States of America,Chemicals,Materials,USD
+AEP.OQ,American Electric Power Company Inc,United States of America,Electric Utilities & IPPs,Utilities,USD
+HOLX.OQ,Hologic Inc,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+BBY.N,Best Buy Co Inc,United States of America,Specialty Retailers,Consumer Discretionary,USD
+LHX.N,L3Harris Technologies Inc,United States of America,Aerospace & Defense,Industrials,USD
+APA.OQ,APA Corp (US),United States of America,Oil & Gas,Energy,USD
+IFF.N,International Flavors & Fragrances Inc,United States of America,Food & Tobacco,Materials,USD
+STT.N,State Street Corp,United States of America,Investment Banking & Investment Services,Financials,USD
+JCI.N,Johnson Controls International PLC,Ireland; Republic of,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+FE.N,FirstEnergy Corp,United States of America,Electric Utilities & IPPs,Utilities,USD
+PNC.N,PNC Financial Services Group Inc,United States of America,Banking Services,Financials,USD
+VZ.N,Verizon Communications Inc,United States of America,Telecommunications Services,Communication Services,USD
+NEM.N,Newmont Corporation,United States of America,Metals & Mining,Materials,USD
+ROL.N,Rollins Inc,United States of America,Professional & Commercial Services,Industrials,USD
+KEY.N,KeyCorp,United States of America,Banking Services,Financials,USD
+GIS.N,General Mills Inc,United States of America,Food & Tobacco,Consumer Staples,USD
+CMCSA.OQ,Comcast Corp,United States of America,Telecommunications Services,Communication Services,USD
+PFE.N,Pfizer Inc,United States of America,Pharmaceuticals,Health Care,USD
+EIX.N,Edison International,United States of America,Electric Utilities & IPPs,Utilities,USD
+NWS.OQ,News Corp,United States of America,Media & Publishing,Communication Services,USD
+MU.OQ,Micron Technology Inc,United States of America,Semiconductors & Semiconductor Equipment,Information Technology,USD
+UPS.N,United Parcel Service Inc,United States of America,Freight & Logistics Services,Industrials,USD
+TYL.N,Tyler Technologies Inc,United States of America,Software & IT Services,Information Technology,USD
+UNP.N,Union Pacific Corp,United States of America,Freight & Logistics Services,Industrials,USD
+BAC.N,Bank of America Corp,United States of America,Banking Services,Financials,USD
+KMX.N,Carmax Inc,United States of America,Specialty Retailers,Consumer Discretionary,USD
+PARA.OQ,Paramount Global,United States of America,Media & Publishing,Communication Services,USD
+IP.N,International Paper Co,United States of America,Containers & Packaging,Materials,USD
+MDT.N,Medtronic PLC,Ireland; Republic of,Healthcare Equipment & Supplies,Health Care,USD
+MMM.N,3M Co,United States of America,Consumer Goods Conglomerates,Industrials,USD
+CZR.OQ,Caesars Entertainment Inc,United States of America,Hotels & Entertainment Services,Consumer Discretionary,USD
+INTU.OQ,Intuit Inc,United States of America,Financial Technology (Fintech) & Infrastructure,Information Technology,USD
+OKE.N,ONEOK Inc,United States of America,Oil & Gas Related Equipment and Services,Energy,USD
+ADP.OQ,Automatic Data Processing Inc,United States of America,Software & IT Services,Industrials,USD
+EQIX.OQ,Equinix Inc,United States of America,Residential & Commercial REITs,Real Estate,USD
+CHD.N,Church & Dwight Co Inc,United States of America,Personal & Household Products & Services,Consumer Staples,USD
+MTD.N,Mettler-Toledo International Inc,United States of America,Office Equipment,Health Care,USD
+EBAY.OQ,eBay Inc,United States of America,Software & IT Services,Consumer Discretionary,USD
+PEG.N,Public Service Enterprise Group Inc,United States of America,Multiline Utilities,Utilities,USD
+BIIB.OQ,Biogen Inc,United States of America,Pharmaceuticals,Health Care,USD
+CTSH.OQ,Cognizant Technology Solutions Corp,United States of America,Software & IT Services,Information Technology,USD
+ALB.N,Albemarle Corp,United States of America,Chemicals,Materials,USD
+NCLH.N,Norwegian Cruise Line Holdings Ltd,United States of America,Hotels & Entertainment Services,Consumer Discretionary,USD
+UDR.N,UDR Inc,United States of America,Residential & Commercial REITs,Real Estate,USD
+DGX.N,Quest Diagnostics Inc,United States of America,Healthcare Providers & Services,Health Care,USD
+CBOE.Z,Cboe Global Markets Inc,United States of America,Investment Banking & Investment Services,Financials,USD
+ETSY.OQ,ETSY Inc,United States of America,Diversified Retail,Consumer Discretionary,USD
+HIG.N,Hartford Financial Services Group Inc,United States of America,Insurance,Financials,USD
+VRSK.OQ,Verisk Analytics Inc,United States of America,Software & IT Services,Industrials,USD
+AMT.N,American Tower Corp,United States of America,Residential & Commercial REITs,Real Estate,USD
+PYPL.OQ,PayPal Holdings Inc,United States of America,Software & IT Services,Financials,USD
+CAG.N,Conagra Brands Inc,United States of America,Food & Tobacco,Consumer Staples,USD
+UHS.N,Universal Health Services Inc,United States of America,Healthcare Providers & Services,Health Care,USD
+TFX.N,Teleflex Inc,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+SYF.N,Synchrony Financial,United States of America,Banking Services,Financials,USD
+WAT.N,Waters Corp,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+INCY.OQ,Incyte Corp,United States of America,Pharmaceuticals,Health Care,USD
+LRCX.OQ,Lam Research Corp,United States of America,Semiconductors & Semiconductor Equipment,Information Technology,USD
+IDXX.OQ,IDEXX Laboratories Inc,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+PPG.N,PPG Industries Inc,United States of America,Chemicals,Materials,USD
+LKQ.OQ,LKQ Corp,United States of America,Automobiles & Auto Parts,Consumer Discretionary,USD
+HES.N,Hess Corp,United States of America,Oil & Gas,Energy,USD
+EOG.N,EOG Resources Inc,United States of America,Oil & Gas,Energy,USD
+MAR.OQ,Marriott International Inc,United States of America,Hotels & Entertainment Services,Consumer Discretionary,USD
+TJX.N,TJX Companies Inc,United States of America,Diversified Retail,Consumer Discretionary,USD
+MNST.OQ,Monster Beverage Corp,United States of America,Beverages,Consumer Staples,USD
+VMC.N,Vulcan Materials Co,United States of America,Construction Materials,Materials,USD
+EW.N,Edwards Lifesciences Corp,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+SBNY.OQ^C23,Signature Bank,United States of America,Banking Services,Financials,USD
+FRC.N^E23,First Republic Bank,United States of America,Banking Services,Financials,USD
+ALL.N,Allstate Corp,United States of America,Insurance,Financials,USD
+BMY.N,Bristol-Myers Squibb Co,United States of America,Pharmaceuticals,Health Care,USD
+APH.N,Amphenol Corp,United States of America,Electronic Equipment & Parts,Information Technology,USD
+HON.OQ,Honeywell International Inc,United States of America,Consumer Goods Conglomerates,Industrials,USD
+GPC.N,Genuine Parts Co,United States of America,Automobiles & Auto Parts,Consumer Discretionary,USD
+MHK.N,Mohawk Industries Inc,United States of America,Household Goods,Consumer Discretionary,USD
+MCHP.OQ,Microchip Technology Inc,United States of America,Semiconductors & Semiconductor Equipment,Information Technology,USD
+CAT.N,Caterpillar Inc,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+PG.N,Procter & Gamble Co,United States of America,Personal & Household Products & Services,Consumer Staples,USD
+ZTS.N,Zoetis Inc,United States of America,Pharmaceuticals,Health Care,USD
+STE.N,STERIS plc,Ireland; Republic of,Healthcare Equipment & Supplies,Health Care,USD
+BKR.OQ,Baker Hughes Co,United States of America,Oil & Gas Related Equipment and Services,Energy,USD
+AFL.N,Aflac Inc,United States of America,Insurance,Financials,USD
+CPB.N,Campbell Soup Co,United States of America,Food & Tobacco,Consumer Staples,USD
+PTC.OQ,PTC Inc,United States of America,Software & IT Services,Information Technology,USD
+FITB.OQ,Fifth Third Bancorp,United States of America,Banking Services,Financials,USD
+MSI.N,Motorola Solutions Inc,United States of America,Communications & Networking,Information Technology,USD
+XEL.OQ,Xcel Energy Inc,United States of America,Electric Utilities & IPPs,Utilities,USD
+HSIC.OQ,Henry Schein Inc,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+ITW.N,Illinois Tool Works Inc,United States of America,Consumer Goods Conglomerates,Industrials,USD
+GPS.N,Gap Inc,United States of America,Specialty Retailers,Consumer Discretionary,USD
+WST.N,West Pharmaceutical Services Inc,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+ALK.N,Alaska Air Group Inc,United States of America,Passenger Transportation Services,Industrials,USD
+DFS.N,Discover Financial Services,United States of America,Banking Services,Financials,USD
+APTV.N,Aptiv PLC,Ireland; Republic of,Automobiles & Auto Parts,Consumer Discretionary,USD
+MPC.N,Marathon Petroleum Corp,United States of America,Oil & Gas,Energy,USD
+PGR.N,Progressive Corp,United States of America,Insurance,Financials,USD
+ZION.OQ,Zions Bancorporation NA,United States of America,Banking Services,Financials,USD
+WBD.OQ,Warner Bros Discovery Inc,United States of America,Media & Publishing,Communication Services,USD
+ICE.N,Intercontinental Exchange Inc,United States of America,Investment Banking & Investment Services,Financials,USD
+KMB.N,Kimberly-Clark Corp,United States of America,Personal & Household Products & Services,Consumer Staples,USD
+SWKS.OQ,Skyworks Solutions Inc,United States of America,Semiconductors & Semiconductor Equipment,Information Technology,USD
+EL.N,Estee Lauder Companies Inc,United States of America,Personal & Household Products & Services,Consumer Staples,USD
+TSLA.OQ,Tesla Inc,United States of America,Automobiles & Auto Parts,Consumer Discretionary,USD
+EXR.N,Extra Space Storage Inc,United States of America,Residential & Commercial REITs,Real Estate,USD
+IPGP.OQ,IPG Photonics Corp,United States of America,Electronic Equipment & Parts,Information Technology,USD
+SPGI.N,S&P Global Inc,United States of America,Professional & Commercial Services,Financials,USD
+ADBE.OQ,Adobe Inc,United States of America,Software & IT Services,Information Technology,USD
+ADSK.OQ,Autodesk Inc,United States of America,Software & IT Services,Information Technology,USD
+WRK.N,Westrock Co,United States of America,Containers & Packaging,Materials,USD
+WHR.N,Whirlpool Corp,United States of America,Household Goods,Consumer Discretionary,USD
+FOXA.OQ,Fox Corp,United States of America,Media & Publishing,Communication Services,USD
+TT.N,Trane Technologies PLC,Ireland; Republic of,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+TSN.N,Tyson Foods Inc,United States of America,Food & Tobacco,Consumer Staples,USD
+AKAM.OQ,Akamai Technologies Inc,United States of America,Software & IT Services,Information Technology,USD
+LUV.N,Southwest Airlines Co,United States of America,Passenger Transportation Services,Industrials,USD
+TSCO.OQ,Tractor Supply Co,United States of America,Specialty Retailers,Consumer Discretionary,USD
+AON.N,Aon PLC,Ireland; Republic of,Insurance,Financials,USD
+AMZN.OQ,Amazon.com Inc,United States of America,Diversified Retail,Consumer Discretionary,USD
+MS.N,Morgan Stanley,United States of America,Investment Banking & Investment Services,Financials,USD
+BRKb.N,Berkshire Hathaway Inc,United States of America,Consumer Goods Conglomerates,Financials,USD
+GOOG.OQ,Alphabet Inc,United States of America,Software & IT Services,Communication Services,USD
+KR.N,Kroger Co,United States of America,Food & Drug Retailing,Consumer Staples,USD
+BKNG.OQ,Booking Holdings Inc,United States of America,Hotels & Entertainment Services,Consumer Discretionary,USD
+STZ.N,Constellation Brands Inc,United States of America,Beverages,Consumer Staples,USD
+ABBV.N,Abbvie Inc,United States of America,Pharmaceuticals,Health Care,USD
+MA.N,Mastercard Inc,United States of America,Software & IT Services,Financials,USD
+XOM.N,Exxon Mobil Corp,United States of America,Oil & Gas,Energy,USD
+SWK.N,Stanley Black & Decker Inc,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+HRL.N,Hormel Foods Corp,United States of America,Food & Tobacco,Consumer Staples,USD
+INTC.OQ,Intel Corp,United States of America,Semiconductors & Semiconductor Equipment,Information Technology,USD
+TRMB.OQ,Trimble Inc,United States of America,Software & IT Services,Information Technology,USD
+WBA.OQ,Walgreens Boots Alliance Inc,United States of America,Food & Drug Retailing,Consumer Staples,USD
+DISCK.OQ^D22,Warner Bros Discovery Inc,United States of America,Media & Publishing,Communication Services,USD
+OMC.N,Omnicom Group Inc,United States of America,Media & Publishing,Communication Services,USD
+GLW.N,Corning Inc,United States of America,Electronic Equipment & Parts,Information Technology,USD
+CRM.N,Salesforce Inc,United States of America,Software & IT Services,Information Technology,USD
+SBUX.OQ,Starbucks Corp,United States of America,Hotels & Entertainment Services,Consumer Discretionary,USD
+ATO.N,Atmos Energy Corp,United States of America,Natural Gas Utilities,Utilities,USD
+ETR.N,Entergy Corp,United States of America,Electric Utilities & IPPs,Utilities,USD
+UA.N,Under Armour Inc,United States of America,Textiles & Apparel,Consumer Discretionary,USD
+HAL.N,Halliburton Co,United States of America,Oil & Gas Related Equipment and Services,Energy,USD
+TFC.N,Truist Financial Corp,United States of America,Banking Services,Financials,USD
+ATVI.OQ,Activision Blizzard Inc,United States of America,Software & IT Services,Communication Services,USD
+TAP.N,Molson Coors Beverage Co,United States of America,Beverages,Consumer Staples,USD
+ABT.N,Abbott Laboratories,United States of America,Healthcare Equipment & Supplies,Health Care,USD
+V.N,Visa Inc,United States of America,Software & IT Services,Financials,USD
+YUM.N,Yum! Brands Inc,United States of America,Hotels & Entertainment Services,Consumer Discretionary,USD
+LYV.N,Live Nation Entertainment Inc,United States of America,Media & Publishing,Communication Services,USD
+JNPR.N,Juniper Networks Inc,United States of America,Communications & Networking,Information Technology,USD
+RE.N,Everest Re Group Ltd,Bermuda,Insurance,Financials,USD
+FTNT.OQ,Fortinet Inc,United States of America,Software & IT Services,Information Technology,USD
+DTE.N,DTE Energy Co,United States of America,Electric Utilities & IPPs,Utilities,USD
+HST.OQ,Host Hotels & Resorts Inc,United States of America,Residential & Commercial REITs,Real Estate,USD
+IRM.N,Iron Mountain Inc,United States of America,Residential & Commercial REITs,Real Estate,USD
+PEAK.N,Healthpeak Properties Inc,United States of America,Residential & Commercial REITs,Real Estate,USD
+FIS.N,Fidelity National Information Services Inc,United States of America,Financial Technology (Fintech) & Infrastructure,Financials,USD
+DAL.N,Delta Air Lines Inc,United States of America,Passenger Transportation Services,Industrials,USD
+ROK.N,Rockwell Automation Inc,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+DOW.N,Dow Inc,United States of America,Chemicals,Materials,USD
+PPL.N,PPL Corp,United States of America,Multiline Utilities,Utilities,USD
+NTRS.OQ,Northern Trust Corp,United States of America,Investment Banking & Investment Services,Financials,USD
+VFC.N,VF Corp,United States of America,Textiles & Apparel,Consumer Discretionary,USD
+ETN.N,Eaton Corporation PLC,Ireland; Republic of,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+CVX.N,Chevron Corp,United States of America,Oil & Gas,Energy,USD
+LNC.N,Lincoln National Corp,United States of America,Insurance,Financials,USD
+CI.N,Cigna Group,United States of America,Healthcare Providers & Services,Health Care,USD
+ACN.N,Accenture PLC,Ireland; Republic of,Software & IT Services,Information Technology,USD
+XYL.N,Xylem Inc,United States of America,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrials,USD
+HAS.OQ,Hasbro Inc,United States of America,Leisure Products,Consumer Discretionary,USD
+ENPH.OQ,Enphase Energy Inc,United States of America,Renewable Energy,Information Technology,USD
+SO.N,Southern Co,United States of America,Electric Utilities & IPPs,Utilities,USD
+CTLT.N,Catalent Inc,United States of America,Pharmaceuticals,Health Care,USD
+VNO.N,Vornado Realty Trust,United States of America,Residential & Commercial REITs,Real Estate,USD
+CTXS.OQ^J22,Citrix Systems Inc,United States of America,Software & IT Services,Information Technology,USD
+DISH.OQ,DISH Network Corp,United States of America,Media & Publishing,Communication Services,USD
+LUMN.N,Lumen Technologies Inc,United States of America,Telecommunications Services,Communication Services,USD
+NRG.N,NRG Energy Inc,United States of America,Electric Utilities & IPPs,Utilities,USD
+MKTX.OQ,Marketaxess Holdings Inc,United States of America,Investment Banking & Investment Services,Financials,USD
+LMT.N,Lockheed Martin Corp,United States of America,Aerospace & Defense,Industrials,USD
+DLR.N,Digital Realty Trust Inc,United States of America,Residential & Commercial REITs,Real Estate,USD
+PSX.N,Phillips 66,United States of America,Oil & Gas,Energy,USD
+SCHW.N,Charles Schwab Corp,United States of America,Investment Banking & Investment Services,Financials,USD
+DXC.N,DXC Technology Co,United States of America,Software & IT Services,Information Technology,USD
+SNPS.OQ,Synopsys Inc,United States of America,Software & IT Services,Information Technology,USD
+J.N,Jacobs Solutions Inc,United States of America,Construction & Engineering,Industrials,USD
+SIVB.OQ^C23,SVB Financial Group,United States of America,Banking Services,Financials,USD
+AVY.N,Avery Dennison Corp,United States of America,Containers & Packaging,Materials,USD
