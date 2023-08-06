@@ -21,16 +21,14 @@ In today's data-driven era, financial markets are leveraging machine learning (M
 
 2. **Code**:
     - 1 Data mining
-    - 2 Data exploration
+    - 2 Data Exploration
     - 3 Merging 1 ( macroeconomic and financial features)
     - 4 Guidance text - 4a for LSEG
     - 5 Merging 2 and wrangling - 5a for LSEG
     - 6 Modelling - 6a for LSEG
 
 4. **Documents**:
-    - Charter 
-    - Final Project
-    - Repots
+    - Final Paper
 
 #### Utility:
 This research is poised at the intersection of machine learning and finance, highlighting the capability of ML techniques like Gradient Boosting Machines to craft precise, futuristic financial analyses. It serves as a repository of knowledge for financial practitioners, institutions, and decision-makers.
