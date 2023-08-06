@@ -42,7 +42,3 @@ This research is poised at the intersection of machine learning and finance, hig
 3. **Training**: The `code` directory houses all notebooks pertinent to data pre-processing model training.
 
 Should you have questions or wish to contribute, kindly raise an issue or forward a pull request.
-
----
-
-**Note**: Prior to initiating any scripts, ensure your setup aligns with the dependencies enumerated in the `requirements.txt` file.
