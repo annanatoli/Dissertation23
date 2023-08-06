@@ -37,7 +37,7 @@ This research is poised at the intersection of machine learning and finance, hig
 
 #### Getting Started:
 
-1. **Prerequisites**: Refer to `requirements.txt` to set up the necessary environment.
+1. **Prerequisites**: Set up the necessary environment, downloading the data folder
 2. **Data**: Access raw and refined datasets in the `data` directory.
 3. **Training**: The `code` directory houses all notebooks pertinent to data pre-processing model training.
 
